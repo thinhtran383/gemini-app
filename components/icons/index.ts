@@ -1,0 +1,15 @@
+export { default as ChuHoaIcon } from './ChuHoaIcon';
+export { default as ChuThuongIcon } from './ChuThuongIcon';
+export { default as NguAmIcon } from './NguAmIcon';
+export { default as ThucHanhIcon } from './ThucHanhIcon';
+export { default as ChonTuIcon } from './ChonTuIcon';
+export { default as NoiChuIcon } from './NoiChuIcon';
+export { default as AppleIcon } from './AppleIcon';
+export { default as BallIcon } from './BallIcon';
+export { default as CatIcon } from './CatIcon';
+export { default as ChickenIcon } from './ChickenIcon';
+export { default as VongQuayIcon } from './VongQuayIcon';
+export { default as TapVietIcon } from './TapVietIcon';
+export { default as CakeIcon } from './CakeIcon';
+export { default as ShirtIcon } from './ShirtIcon';
+export { default as FrogIcon } from './FrogIcon';
